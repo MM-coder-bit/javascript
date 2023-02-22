@@ -18,6 +18,9 @@ const precosLivros = [
     },
     {
         titulo:'Python',preco:20
+    },
+    {
+        titulo:'LabVIEW',preco:20
     }
 ]; 
 
