@@ -1,0 +1,17 @@
+
+Observações:
+
+    A busca binária é muito mais rápida do que os algoritmos de ordenação. 
+    Isso ocorre porque a busca binária requer apenas O(log n) comparações, 
+    enquanto os algoritmos de ordenação precisam comparar todos os elementos do vetor 
+    pelo menos uma vez.
+    
+    O Merge Sort e o Quick Sort são os algoritmos mais eficientes em termos de tempo de execução.
+    Ambos têm uma complexidade O(n log n) no pior caso. No entanto, o Merge Sort tem um 
+    desempenho mais consistente do que o Quick Sort, que pode ter um desempenho muito ruim no 
+    pior caso (O(n²)).
+    
+    O Insertion Sort e o Selection Sort têm desempenhos muito piores do que o Merge Sort e o 
+    Quick Sort. O Insertion Sort tem uma complexidade O(n²) no pior caso e o Selection Sort tem 
+    uma complexidade O(n²) no melhor e no pior caso. Ambos os algoritmos têm desempenho muito 
+    ruim para vetores grandes.
